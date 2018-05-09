@@ -1,0 +1,16 @@
+/*.a{
+	color: red;
+}
+.b{
+	text-decoration: underline;
+}
+.c{
+	background: orange;
+}*/
+#box{
+    width: 0;
+    height: 0;
+    border-width: 15px;
+    border-style: solid;
+    border-color: red #2D6696 #78876E #FFFFFF;
+}
